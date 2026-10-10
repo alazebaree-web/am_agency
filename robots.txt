@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amagency-krd.vercel.app/sitemap.xml
